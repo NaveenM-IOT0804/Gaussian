@@ -19,8 +19,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: 
 RegisterNumber: 
-*/
-```
+
 import numpy as np
 
 import sys
@@ -66,7 +65,9 @@ for i in range(n-2,-1,-1):
 for i in range(n):
     
     print('X%d = %0.2f'%(i,x[i]),end=' ')
-    
+   
+*/
+```   
     
 ## Output:
 ![mex6](https://user-images.githubusercontent.com/117974950/213450106-4380625f-d4a7-4672-9b7c-c1ef387ce237.png)
